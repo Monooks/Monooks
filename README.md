@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhzYmxneGhoYmR5cjJxdjE4ZWxicmYzNXpqZHRrY2xuZzhjNGprMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Monooks&style=flat-square&color=blue" alt=""/>
+
 - 👋 Привет! Я - Миша Емельянов!
 - 👀 Мне интересно вырасти в системного администратора, а после до DevOps-инженера дорасти!(:
 - 🌱 Сейчас я продолжаю изучать Python для автоматизации рутинных процессов.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Я хочу работать в большой стабильной компании и перенимать опыт у профи!
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Monooks/Monooks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
