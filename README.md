@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://vk.com/monooks">
-      <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="VK.com Badge"/>
+      <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VK.com Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Monooks&style=flat-square&color=blue" alt=""/>
  <h1>
