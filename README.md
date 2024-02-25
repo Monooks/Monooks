@@ -29,21 +29,18 @@
 ### :hammer_and_wrench: Что я изучал в Нетологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46329/tools_Linux_color.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46348/tools_TCP.IP_color.png" title="TCP.IP" alt="TCP.IP" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46344/tools_OpenVPN_color.png" title="OpenVPN" alt="OpenVPN" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46349/tools_Bash_color.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46345/tools_Zabbix_color.png" title="Zabbix" alt="Zabbix" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46350/tools_Ansible_color.png" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46346/tools_Nginx_color.png"  title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46351/tools_ELK_color.png" title="ELK" alt="ELK" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46313/tools_GIT_color.png" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46347/tools_Kubernetes_color.png" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46352/tools_Terraform_color.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </div>
 
 
