@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47hdpu2abi6c5rx13jrchot0r8m540ltzdhp2s03am&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
-###Что я изучал в Нетологии:
+### Что я изучал в Нетологии:
 
 
 
