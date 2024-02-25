@@ -4,15 +4,18 @@
     <a href="https://t.me/Monooks">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
+    
     <a href="https://vk.com/monooks">
       <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VK.com Badge"/>
     </a>
+  </div>
     <img src="https://komarev.com/ghpvc/?username=Monooks&style=flat-square&color=blue" alt=""/>
  <h1>
    Всем привет!
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 </div>
+
 
 
 - 👋 Привет! Я - Миша Емельянов!
