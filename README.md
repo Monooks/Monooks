@@ -1,19 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhzYmxneGhoYmR5cjJxdjE4ZWxicmYzNXpqZHRrY2xuZzhjNGprMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-<div id="badges">
-  <a href="https://t.me/Monooks">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://vk.com/monooks">
-    <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=VK.com&logoColor=white" alt="VK.com Badge"/>
-  </a>
+  <div id="badges">
+    <a href="https://t.me/Monooks">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://vk.com/monooks">
+      <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="VK.com Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Monooks&style=flat-square&color=blue" alt=""/>
+ <h1>
+   Всем привет!
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ </h1>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Monooks&style=flat-square&color=blue" alt=""/>
-</div>
-<h1>
-  Всем привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 - 👋 Привет! Я - Миша Емельянов!
