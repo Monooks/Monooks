@@ -43,22 +43,11 @@
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46352/tools_Terraform_color.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </div>
 
----
 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/QyKwWQzeOSl9e/giphy.gif?cid=ecf05e47hvebsa0mpa0et9qt0tkgwi2kam6640k48tkcpx2k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-</div>
+https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47hdpu2abi6c5rx13jrchot0r8m540ltzdhp2s03am&ep=v1_gifs_search&rid=giphy.gif&ct=g - песель
 
-### :trophy: Мои достижения в Нетологии:
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhzYmxneGhoYmR5cjJxdjE4ZWxicmYzNXpqZHRrY2xuZzhjNGprMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif - синий одмин
 
-#### :pen: Мои выполненные практические и зачетные [работы](https://github.com/Monooks/Monooks/blob/main/HomeWorks.md)
+https://media.giphy.com/media/QyKwWQzeOSl9e/giphy.gif?cid=ecf05e47hvebsa0mpa0et9qt0tkgwi2kam6640k48tkcpx2k&ep=v1_gifs_search&rid=giphy.gif&ct=g - счастлив
 
-#### :microscope: Моя дипломная [работа](https://github.com/Monooks/SYS-DIPLOMA-Neto/blob/main/README.md)
-
----
-
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/I1U9DTjCqOF3i/giphy.gif?cid=ecf05e47hvebsa0mpa0et9qt0tkgwi2kam6640k48tkcpx2k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-</div>
-
-### :dart: Мои [сертификаты](https://github.com/Monooks/Monooks/blob/main/Certificates.md)
+https://media.giphy.com/media/I1U9DTjCqOF3i/giphy.gif?cid=ecf05e47hvebsa0mpa0et9qt0tkgwi2kam6640k48tkcpx2k&ep=v1_gifs_search&rid=giphy.gif&ct=g - тз - хз
