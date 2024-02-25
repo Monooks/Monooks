@@ -22,7 +22,7 @@
 - 💞️ Я хочу работать в большой стабильной компании и перенимать опыт у профи!
 ---
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47hdpu2abi6c5rx13jrchot0r8m540ltzdhp2s03am&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
@@ -45,7 +45,7 @@
 
 ---
 
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/QyKwWQzeOSl9e/giphy.gif?cid=ecf05e47hvebsa0mpa0et9qt0tkgwi2kam6640k48tkcpx2k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
@@ -57,7 +57,7 @@
 
 ---
 
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/I1U9DTjCqOF3i/giphy.gif?cid=ecf05e47hvebsa0mpa0et9qt0tkgwi2kam6640k48tkcpx2k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
