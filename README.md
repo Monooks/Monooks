@@ -51,9 +51,9 @@
 
 ### :trophy: Мои достижения в Нетологии:
 
-#### :pen: Мои выполненные практические и зачетные [работы](https://github.com/Monooks/Monooks/blob/main/HomeWorks.md)
+### :microscope: Моя дипломная [работа](https://github.com/Monooks/SYS-DIPLOMA-Neto/blob/main/README.md)
 
-#### :microscope: Моя дипломная [работа](https://github.com/Monooks/SYS-DIPLOMA-Neto/blob/main/README.md)
+##### :pen: Мои выполненные практические и зачетные [работы](https://github.com/Monooks/Monooks/blob/main/HomeWorks.md)
 
 ---
 
