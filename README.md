@@ -43,6 +43,14 @@
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46352/tools_Terraform_color.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :trophy: Что я изучал в Нетологии:
+
+#### :pen: Мои выполненные практические и зачетные [работы](https://github.com/Monooks/Monooks/blob/main/HomeWorks.md)
+
+#### :microscope: Моя дипломная [работа](https://github.com/Monooks/SYS-DIPLOMA-Neto/blob/main/README.md)
+
 
 https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47hdpu2abi6c5rx13jrchot0r8m540ltzdhp2s03am&ep=v1_gifs_search&rid=giphy.gif&ct=g - песель
 
