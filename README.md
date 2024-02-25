@@ -16,23 +16,18 @@
 </div>
 
 
-
 - 👋 Я - Миша Емельянов!
 - 👀 Мне интересно вырасти в системного администратора, а после до DevOps-инженера дорасти!(:
 - 🌱 Сейчас я продолжаю изучать Python для автоматизации рутинных процессов.
 - 💞️ Я хочу работать в большой стабильной компании и перенимать опыт у профи!
-
-
-<!---
-Monooks/Monooks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Что я изучал в Нетологии:
+---
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47hdpu2abi6c5rx13jrchot0r8m540ltzdhp2s03am&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
+
+###Что я изучал в Нетологии:
+
 
 
 
